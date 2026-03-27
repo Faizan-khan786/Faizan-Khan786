@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a mern stack developer <br><br>
+<b> i'm a mern stack developer < /b>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ i'm a mern stack developer <br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Faizan khan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
